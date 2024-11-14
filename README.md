@@ -20,6 +20,13 @@ Once connected, users can:
 
 **Output Examples:**
 
-<img src="images/img1.png" width="600"/>
-<img src="images/img2.png" width="600"/>
-<img src="images/img3.png" width="600"/>
+<img src="images/img1.png" width="500"/>
+<img src="images/img2.png" width="500"/>
+<img src="images/img3.png" width="500"/>
+<img src="images/img4.png" width="500"/>
+<img src="images/img5.png" width="500"/>
+<img src="images/img6.png" width="500"/>
+<img src="images/img7.png" width="500"/>
+<img src="images/img8.png" width="500"/>
+
+
