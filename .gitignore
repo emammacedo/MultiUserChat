@@ -1,0 +1,23 @@
+# Eclipse specific files
+.classpath
+.project
+.settings/
+
+# Build directory
+bin/
+target/
+
+# Gradle files and directories
+.gradle/
+build/
+
+# Compiled class files
+*.class
+
+# Logs
+*.log
+
+# Package Files
+*.jar
+*.war
+*.ear
